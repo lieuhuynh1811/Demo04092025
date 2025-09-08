@@ -11,6 +11,16 @@ Expected result:
 'Appointment' section is displayed after successful login</description>
    <name>TC1_Verify Successful Login</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>17</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment>Story: Login to CURA system
 Given that the user has valid login information
 When he logins to CURA system
