@@ -16,12 +16,12 @@
                <entry>
                   <key>testCloudDesktopBrowser</key>
                   <value>{
-  &quot;id&quot;: 892,
-  &quot;osDisplayName&quot;: &quot;Windows&quot;,
-  &quot;browserName&quot;: &quot;msedge&quot;,
-  &quot;browserDisplayName&quot;: &quot;Edge Chromium&quot;,
-  &quot;browserVersion&quot;: &quot;141&quot;,
-  &quot;os&quot;: &quot;windows&quot;,
+  &quot;id&quot;: 105,
+  &quot;osDisplayName&quot;: &quot;MacOS&quot;,
+  &quot;browserName&quot;: &quot;safari&quot;,
+  &quot;browserDisplayName&quot;: &quot;Safari&quot;,
+  &quot;browserVersion&quot;: &quot;14&quot;,
+  &quot;os&quot;: &quot;macos&quot;,
   &quot;platformName&quot;: &quot;IOS&quot;,
   &quot;timeout&quot;: 15,
   &quot;usingTunnel&quot;: false,
@@ -57,12 +57,12 @@
                <entry>
                   <key>testCloudDesktopBrowser</key>
                   <value>{
-  &quot;id&quot;: 105,
-  &quot;osDisplayName&quot;: &quot;MacOS&quot;,
-  &quot;browserName&quot;: &quot;safari&quot;,
-  &quot;browserDisplayName&quot;: &quot;Safari&quot;,
-  &quot;browserVersion&quot;: &quot;14&quot;,
-  &quot;os&quot;: &quot;macos&quot;,
+  &quot;id&quot;: 1057,
+  &quot;osDisplayName&quot;: &quot;Windows&quot;,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
+  &quot;browserVersion&quot;: &quot;142&quot;,
+  &quot;os&quot;: &quot;windows&quot;,
   &quot;platformName&quot;: &quot;IOS&quot;,
   &quot;timeout&quot;: 15,
   &quot;usingTunnel&quot;: false,
