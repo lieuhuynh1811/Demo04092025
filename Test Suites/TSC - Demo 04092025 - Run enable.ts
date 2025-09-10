@@ -109,11 +109,11 @@
                <entry>
                   <key>testCloudDesktopBrowser</key>
                   <value>{
-  &quot;id&quot;: 105,
+  &quot;id&quot;: 826,
   &quot;osDisplayName&quot;: &quot;MacOS&quot;,
-  &quot;browserName&quot;: &quot;safari&quot;,
-  &quot;browserDisplayName&quot;: &quot;Safari&quot;,
-  &quot;browserVersion&quot;: &quot;14&quot;,
+  &quot;browserName&quot;: &quot;firefox&quot;,
+  &quot;browserDisplayName&quot;: &quot;Firefox&quot;,
+  &quot;browserVersion&quot;: &quot;142&quot;,
   &quot;os&quot;: &quot;macos&quot;,
   &quot;platformName&quot;: &quot;IOS&quot;,
   &quot;timeout&quot;: 15,
