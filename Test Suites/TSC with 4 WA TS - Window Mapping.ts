@@ -35,7 +35,7 @@
             <runConfigurationId>Edge</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS - Demo 4</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS - Demo 4 - Update TS name</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

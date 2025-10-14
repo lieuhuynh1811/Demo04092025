@@ -87,7 +87,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/TS - Demo 4</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS - Demo 4 - Update TS name</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
