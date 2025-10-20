@@ -16,12 +16,12 @@
                <entry>
                   <key>testCloudDesktopBrowser</key>
                   <value>{
-  &quot;id&quot;: 892,
-  &quot;osDisplayName&quot;: &quot;Windows&quot;,
-  &quot;browserName&quot;: &quot;msedge&quot;,
-  &quot;browserDisplayName&quot;: &quot;Edge Chromium&quot;,
-  &quot;browserVersion&quot;: &quot;141&quot;,
-  &quot;os&quot;: &quot;windows&quot;,
+  &quot;id&quot;: 730,
+  &quot;osDisplayName&quot;: &quot;Linux&quot;,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
+  &quot;browserVersion&quot;: &quot;136&quot;,
+  &quot;os&quot;: &quot;linux&quot;,
   &quot;platformName&quot;: &quot;IOS&quot;,
   &quot;timeout&quot;: 15,
   &quot;usingTunnel&quot;: false,
@@ -41,9 +41,30 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>Production</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Chrome</runConfigurationId>
+            <profileName>default</profileName>
+            <requireConfigurationData>true</requireConfigurationData>
+            <runConfigurationData>
+               <entry>
+                  <key>testCloudDesktopBrowser</key>
+                  <value>{
+  &quot;id&quot;: 1288,
+  &quot;osDisplayName&quot;: &quot;MacOS&quot;,
+  &quot;browserName&quot;: &quot;firefox&quot;,
+  &quot;browserDisplayName&quot;: &quot;Firefox&quot;,
+  &quot;browserVersion&quot;: &quot;145&quot;,
+  &quot;os&quot;: &quot;macos&quot;,
+  &quot;platformName&quot;: &quot;IOS&quot;,
+  &quot;timeout&quot;: 15,
+  &quot;usingTunnel&quot;: false,
+  &quot;isHighAvailableDevice&quot;: false
+}</value>
+               </entry>
+               <entry>
+                  <key>testCloudSessionType</key>
+                  <value>DESKTOP_BROWSER</value>
+               </entry>
+            </runConfigurationData>
+            <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/TS - Demo 2</testSuiteEntity>
@@ -57,11 +78,11 @@
                <entry>
                   <key>testCloudDesktopBrowser</key>
                   <value>{
-  &quot;id&quot;: 991,
+  &quot;id&quot;: 793,
   &quot;osDisplayName&quot;: &quot;MacOS&quot;,
   &quot;browserName&quot;: &quot;msedge&quot;,
   &quot;browserDisplayName&quot;: &quot;Edge Chromium&quot;,
-  &quot;browserVersion&quot;: &quot;141&quot;,
+  &quot;browserVersion&quot;: &quot;140&quot;,
   &quot;os&quot;: &quot;macos&quot;,
   &quot;platformName&quot;: &quot;IOS&quot;,
   &quot;timeout&quot;: 15,
@@ -82,9 +103,30 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>Staging</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Firefox</runConfigurationId>
+            <profileName>default</profileName>
+            <requireConfigurationData>true</requireConfigurationData>
+            <runConfigurationData>
+               <entry>
+                  <key>testCloudDesktopBrowser</key>
+                  <value>{
+  &quot;id&quot;: 730,
+  &quot;osDisplayName&quot;: &quot;Linux&quot;,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
+  &quot;browserVersion&quot;: &quot;136&quot;,
+  &quot;os&quot;: &quot;linux&quot;,
+  &quot;platformName&quot;: &quot;IOS&quot;,
+  &quot;timeout&quot;: 15,
+  &quot;usingTunnel&quot;: false,
+  &quot;isHighAvailableDevice&quot;: false
+}</value>
+               </entry>
+               <entry>
+                  <key>testCloudSessionType</key>
+                  <value>DESKTOP_BROWSER</value>
+               </entry>
+            </runConfigurationData>
+            <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/TS - Demo 4</testSuiteEntity>
