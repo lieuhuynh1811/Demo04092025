@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>TC3_Visual Testing Example</name>
-   <tag></tag>
+   <tag>p1,fast-test,regression_19112025</tag>
    <comment></comment>
    <testCaseGuid>1fadfcb8-b3d7-11f0-8ae8-e71f713b9d08</testCaseGuid>
    <integratedEntity>
@@ -10,7 +10,7 @@
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;PUBLISHED&quot;,&quot;assignee&quot;:&quot;&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Executions&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Story Test&quot;]}]},&quot;priority&quot;:&quot;MEDIUM&quot;,&quot;automationStatus&quot;:null}</value>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Executions"]},{"key":"testType","value":["Story Test"]}]},"priority":"MEDIUM","automationStatus":null}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>

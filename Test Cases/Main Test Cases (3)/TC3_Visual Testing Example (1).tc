@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>TC3_Visual Testing Example (1)</name>
-   <tag></tag>
+   <tag>p1,fast-test,regression_19112025</tag>
    <comment></comment>
    <testCaseGuid>e05ae6ec-b3d7-11f0-bfc4-853129506c46</testCaseGuid>
    <integratedEntity>

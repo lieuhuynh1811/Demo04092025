@@ -10,7 +10,7 @@ Steps:
 Expected results:
 Appointment Confirmation page is displayed</description>
    <name>TC2_Verify Successful Appointment (1)</name>
-   <tag></tag>
+   <tag>p1,fast-test,regression_19112025</tag>
    <comment>Story: Book an appointment
 Given that the user has logged into their account
 And Appointment page is displayed

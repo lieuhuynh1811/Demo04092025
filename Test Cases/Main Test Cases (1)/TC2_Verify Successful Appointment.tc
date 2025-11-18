@@ -10,7 +10,7 @@ Steps:
 Expected results:
 Appointment Confirmation page is displayed</description>
    <name>TC2_Verify Successful Appointment</name>
-   <tag></tag>
+   <tag>p1,fast-test,regression_19112025</tag>
    <comment>Story: Book an appointment
 Given that the user has logged into their account
 And Appointment page is displayed
@@ -23,7 +23,7 @@ Then he should be able to book a new appointment</comment>
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;PUBLISHED&quot;,&quot;assignee&quot;:&quot;&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Executions&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Story Test&quot;]}]},&quot;priority&quot;:&quot;MEDIUM&quot;,&quot;automationStatus&quot;:null}</value>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Executions"]},{"key":"testType","value":["Story Test"]}]},"priority":"MEDIUM","automationStatus":null}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>

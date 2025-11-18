@@ -10,7 +10,7 @@ Steps:
 Expected result:
 'Appointment' section is displayed after successful login</description>
    <name>TC1_Verify Successful Login (1)</name>
-   <tag></tag>
+   <tag>p1,fast-test,regression_19112025</tag>
    <comment>Story: Login to CURA system
 Given that the user has valid login information
 When he logins to CURA system
