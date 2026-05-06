@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>test RCE</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>5b0580b9-4b49-4190-99e4-2a624afc8e0d</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;DRAFT&quot;,&quot;assignee&quot;:&quot;&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[]}]},&quot;priority&quot;:&quot;MEDIUM&quot;,&quot;automationStatus&quot;:&quot;TO_BE_ASSESSED&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
